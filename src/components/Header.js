@@ -8,8 +8,7 @@ class Header extends Component {
                <div className="banner-text" align="center">
                   <h1>G A L L E R I A</h1>
                   <h3>
-                     Digital Art Works & Designs
-                     by Afiqah Rashid
+                     Digital Art Works, Drawings & Designs by Afiqah Rashid
                   </h3>
                   <h6>
                      <br /> Posters | Instagram Posts | Instastory Posts | Facebook Posts | Facebook Banners | Logos | Sketches | Renders | Concept Inspiration</h6>

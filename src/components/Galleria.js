@@ -18,7 +18,7 @@ export default function Galleria() {
     };
 
     return (
-        <div style={{ height: 420, overflow: "auto", marginTop: 190 }}>
+        <div style={{ height: 440, overflow: "auto", marginTop: 180 }}>
             <Gallery photos={photos} onClick={openLightbox} />
             <ModalGateway>
                 {viewerIsOpen ? (
